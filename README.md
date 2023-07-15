@@ -13,3 +13,6 @@
 // Step 5: Double Check for Errors
 // Step 6: Dry Run the test case
 // STep 7: TC and SC
+
+git config --global user.email "jyothijesuschrist@gmail.com"
+git config --global user.name "jyothimala"
