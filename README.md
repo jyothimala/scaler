@@ -1,10 +1,10 @@
-"# scaler" 
+# scaler
 
 ### Steps for any problem
 
 * Step 1: Understand the Problem and Verify the Constraints
 *  Step 2: Write down your own test cases
-// Step 3: Solution without CODE
+* Step 3: Solution without CODE
 // Break down and Simplify
 // ASk Questions
 // Build up
